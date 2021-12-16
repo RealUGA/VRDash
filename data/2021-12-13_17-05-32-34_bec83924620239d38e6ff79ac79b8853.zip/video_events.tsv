@@ -1,0 +1,20 @@
+global	experiment	device	action	video	vid time (sec)
+03:15.1	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	set_url	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	0
+03:15.1	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	play	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	NaN
+04:37.8	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	set_time	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	81.06586
+04:37.8	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	pause	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	81.06586
+04:40.8	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	set_time	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	338.2549
+04:40.8	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	pause	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	81.06586
+04:40.9	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	set_time	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	339.7259
+04:40.9	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	pause	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	81.06586
+04:41.0	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	set_time	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	341.1068
+04:41.0	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	pause	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	81.06586
+04:41.1	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	set_time	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	341.7672
+04:41.1	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	pause	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	81.06586
+04:41.4	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	set_time	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	342.5479
+04:41.4	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	pause	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	341.7632
+04:41.5	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	set_time	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	342.9081
+04:41.5	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	pause	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	341.7632
+04:44.4	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	play	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	342.8966
+05:20.1	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	set_time	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	378.6629
+05:20.1	bec83924620239d38e6ff79ac79b8853	Android OS 8.1.0 / API-27 (OPM1.171019.026/eng.scmbui.20210409.201441)	pause	http://vel.engr.uga.edu/apps/VRDEO/raydiagrams.mp4	378.6629
