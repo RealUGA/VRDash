@@ -1,3 +1,5 @@
+# This code utilizes the dash_player component which was released under the MIT license
+
 import base64
 from datetime import datetime as dt, timedelta
 import io
@@ -131,7 +133,6 @@ class ProcessVideo(object):
                         time_repeat += 1
                     else:
                         break
-            #print(time_repeat, " this is time repeat!!!!!!!!!!!!!!!!")
             if time_repeat == 1:
                 loop = -1
                 nomatch = False
@@ -1636,12 +1637,12 @@ def generate_solo(value):
 
             html.P("Update Interval for Current Video Time:", style={'margin-top': '30px'}),
             dcc.Slider(
-                id='slider_intervalCurrentTime',
+                id='slider_interval',
                 min=40,
-                max=1000,
+                max=100,
                 step=None,
                 updatemode='drag',
-                marks={i: str(i) for i in [40, 100, 200, 500, 1000]},
+                marks={i: str(i) for i in [40, 100]},
                 value=100
             ),
             dcc.Dropdown(id='data_selector',
@@ -2080,8 +2081,8 @@ def update_heatmap(n_clicks, file, input_for_heatmap, heatmap_duration):
         return children
 
 @app.callback(Output('vid_player', 'intervalCurrentTime'),
-              [Input('slider_intervalCurrentTime', 'value')])
-def update_intervalCurrentTime(value):
+              [Input('slider_interval', 'value')])
+def update_slider_interval(value):
     return value
 
 
