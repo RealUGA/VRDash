@@ -1,6 +1,9 @@
+# VRDash
+
 This is a dashboard application for analyzing eye tracking data.
 Sample eye tracking data is provided in the data folder.
 
+## Install Requirements Instructions
 It is recommended to run this project in a virtual environment.
 To install, follow the commands below.
 
@@ -28,6 +31,7 @@ $ pip install dash-extensions
 $ pip install opencv-python
 ```
 
+## Runtime Instructions
 To run the application, enter:
 
 ```
