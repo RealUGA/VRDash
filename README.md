@@ -34,4 +34,4 @@ To run the application, enter:
 $ python app.py
 ```
 
-The application can then be accessed by navigating to localhost:8050
+The application can then be accessed by navigating to http://localhost:8050/
